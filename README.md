@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Nabzilooo
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me : you can't
+👋 Hi, I’m @Nabzilooo
+ 
+ My name is Adil Nouiri
+ I’m interested in computing, and more precisely in development and coding
+ To get a lot of skills for reaching all my goals i'm currently studying at Epitech
+ Since only this year but I'm growing and collecting data with each passing day
 
-<!---
-Nabzilooo/Nabzilooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Check the content of my Github if you are interessed on my works / projects
+
+- 📫 How to reach me :
+      You can send me an e-mail -> adil.nouiri@epitech.eu
