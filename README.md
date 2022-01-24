@@ -11,12 +11,14 @@
 
 <code><img height="20" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>   
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://i.redd.it/tu3gt6ysfxq71.png"></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabzilooo&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabzilooo&show_icons=true&theme=github_dark&&count_private=true&hide=prs,issues,contribs&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabzilooo&show_icons=true&theme=github_dark&&count_private=true&hide=prs,issues&include_all_commits=true)
 
 Check the content of my Github if you are interessed on my works / projects
 
