@@ -16,7 +16,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://i.redd.it/tu3gt6ysfxq71.png"></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabzilooo&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabzilooo)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabzilooo&show_icons=true&theme=github_dark&&count_private=true&hide=prs,issues&include_all_commits=true)
 
