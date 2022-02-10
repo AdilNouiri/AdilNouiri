@@ -20,6 +20,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabzilooo&show_icons=true&theme=github_dark&&count_private=true&hide=prs,issues&include_all_commits=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nabzilooo&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 Check the content of my Github if you are interessed on my works / projects
 
 - 📫 How to reach me :  &nbsp; &nbsp; <a href="mailto:adil.nouiri@epitech.eu">
