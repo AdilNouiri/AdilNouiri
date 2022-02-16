@@ -9,13 +9,13 @@
 
 **Languages and tools :**
 
-<code><img height="20" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://i.redd.it/tu3gt6ysfxq71.png"></code>
-<code><img height="20" src="https://miro.medium.com/max/1400/1*okufk5mMDbTfqA5iS_rldQ.png"></code>
+<code><img height="40" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>    
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://i.redd.it/tu3gt6ysfxq71.png"></code>
+<code><img height="40" src="https://miro.medium.com/max/1400/1*okufk5mMDbTfqA5iS_rldQ.png"></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabzilooo&langs_count=10?&hide=ShaderLab,HLSL,ASP.NET)
 
@@ -27,10 +27,10 @@ The most used languages doesn't represent all the languages I know or how often 
 
 Check the content of my Github if you are interessed on my works / projects
 
-- 📫 How to reach me :  &nbsp; &nbsp; <a href="mailto:adil.nouiri@epitech.eu">
-  <img alt="Nabzilooo's mail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" />
-</a>
-
+- 📫 How to reach me :  &nbsp; &nbsp; <a href="mailto:adil.nouiri@epitech.eu"> 
+  <img alt="Nabzilooo's mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" height="40" width="40" /> </a>  
+  <br /> 
+<a href="https://discordapp.com/users/585778477764968458" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MasterFeedax#2550" height="50" width="50" /></a>
 <br /> 
 
 ![](https://komarev.com/ghpvc/?username=Nabzilooo&color=blue)
