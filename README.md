@@ -15,8 +15,11 @@
 <code><img height="20" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>    
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://i.redd.it/tu3gt6ysfxq71.png"></code>
+<code><img height="20" src="https://miro.medium.com/max/1400/1*okufk5mMDbTfqA5iS_rldQ.png"></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabzilooo&langs_count=10?&hide=ShaderLab,HLSL,ASP.NET)
+
+The most used languages doesn't represent all the languages I know or how often I use them, but only the percentage of presence on my publics Github repositories. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabzilooo&show_icons=true&theme=github_dark&&count_private=true&hide=prs,issues&include_all_commits=true)
 
