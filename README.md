@@ -25,15 +25,24 @@ The most used languages doesn't represent all the languages I know or how often 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nabzilooo&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-Check the content of my Github if you are interessed on my works / projects
+Check the content of my Github or my Portfolio if you are interessed on my works / projects
 
-- 📫 How to reach me :  &nbsp; &nbsp; <a href="mailto:adil.nouiri@epitech.eu"> 
-  <img alt="Nabzilooo's mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" height="40" width="40" /> </a>  
-  <br /> 
-<br /> 
+__Click here to access my portfolio :__
 
-[![linkedin](https://linkedin-github.herokuapp.com/api/render/Adil%20Nouiri/Student%20at%20EPITECH/European%20Institute%20of%20Technology%20/Expert%20en%20technologie%20de%20l'information/light-blue/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FD4E35AQERWgKy0zS35A%2Fprofile-framedphoto-shrink_400_400%2F0%2F1645036979265%3Fe%3D1645124400%26v%3Dbeta%26t%3DVZiBUCkhGzE5R5RSPFPcKcI8WKHpAgREd7ukNysH2F0)](https://www.linkedin.com/in/adilnouiri/)
-
+<a href="https://nabzilooo.github.io/"> 
+  <img alt="Nabzilooo's portfolio" src="https://www.seekpng.com/png/detail/838-8389823_portfolio-calligraphy.png" height="40" width="100" /> </a>
 <br />
+ <br />
+ 📫 How to reach me :
+  <br />
+   <br />
+<a href="mailto:adil.nouiri@epitech.eu"> 
+  <img alt="Nabzilooo's mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" height="40" width="40" /> </a>
+   <br />
+  <a href="https://www.linkedin.com/in/adilnouiri/"> 
+  <img alt="Nabzilooo's linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="40" width="40" /> </a>  
+ <br />
+ <br />
+ <br /> 
 
 ![](https://komarev.com/ghpvc/?username=Nabzilooo&color=blue)
