@@ -17,32 +17,28 @@
 <code><img height="40" src="https://i.redd.it/tu3gt6ysfxq71.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/1400/1*okufk5mMDbTfqA5iS_rldQ.png"></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabzilooo&langs_count=10?&hide=ShaderLab,HLSL,ASP.NET)
-
 The most used languages doesn't represent all the languages I know or how often I use them, but only the percentage of presence on my publics Github repositories. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabzilooo&show_icons=true&theme=github_dark&&count_private=true&hide=prs,issues&include_all_commits=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nabzilooo&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdilNouiri&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 Check the content of my Github or my Portfolio if you are interessed on my works / projects
 
 __Click here to access my portfolio :__
 
-<a href="https://nabzilooo.github.io/"> 
-  <img alt="Nabzilooo's portfolio" src="https://www.seekpng.com/png/detail/838-8389823_portfolio-calligraphy.png" height="40" width="100" /> </a>
+<a href="https://AdilNouiri.github.io/"> 
+  <img alt="AdilNouiri's portfolio" src="https://www.seekpng.com/png/detail/838-8389823_portfolio-calligraphy.png" height="40" width="100" /> </a>
 <br />
  <br />
  📫 How to reach me :
   <br />
    <br />
 <a href="mailto:adil.nouiri@epitech.eu"> 
-  <img alt="Nabzilooo's mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" height="40" width="40" /> </a>
+  <img alt="AdilNouiri's mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" height="40" width="40" /> </a>
    <br />
   <a href="https://www.linkedin.com/in/adilnouiri/"> 
-  <img alt="Nabzilooo's linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="40" width="40" /> </a>  
+  <img alt="AdilNouiri's linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="40" width="40" /> </a>  
  <br />
  <br />
  <br /> 
 
-![](https://komarev.com/ghpvc/?username=Nabzilooo&color=blue)
+![](https://komarev.com/ghpvc/?username=AdilNouiri&color=blue)
