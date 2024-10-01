@@ -17,8 +17,6 @@
 <code><img height="40" src="https://i.redd.it/tu3gt6ysfxq71.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/1400/1*okufk5mMDbTfqA5iS_rldQ.png"></code>
 
-The most used languages doesn't represent all the languages I know or how often I use them, but only the percentage of presence on my publics Github repositories. 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdilNouiri&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 Check the content of my Github or my Portfolio if you are interessed on my works / projects
