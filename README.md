@@ -3,8 +3,8 @@
 
  I'm <code>**Adil Nouiri**</code>, a passionate of development and coding
      
- To get a lot of skills for reaching all my goals i'm currently studying at Epitech         
- Since only this year but I'm growing and collecting data with each passing day
+ To reach all my goals, I’m currently studying at Epitech to develop a wide range of skills.
+ Every day, I grow and collect valuable experience and knowledge
 
 
 **Languages and tools :**
@@ -12,7 +12,6 @@
 <code><img height="40" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>    
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://i.redd.it/tu3gt6ysfxq71.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/1400/1*okufk5mMDbTfqA5iS_rldQ.png"></code>
