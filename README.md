@@ -36,7 +36,7 @@
 
 ## Stack I use most
 
-TypeScript · NestJS · React · React Native · Next.js · PostgreSQL · Prisma · Redis · Docker
+TypeScript · React · Next.js · Node.js · PostgreSQL · React Native · Rust · Docker
 
 ## Background
 
