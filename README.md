@@ -17,22 +17,17 @@
 
 ## What I do
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Products</h3>
-      SaaS, apps and tools I design, build and run end to end.
-    </td>
-    <td width="33%" valign="top">
-      <h3>Remote work</h3>
-      Open to IT roles and projects, from back-end and front-end to mobile, infrastructure and automation.
-    </td>
-    <td width="33%" valign="top">
-      <h3>Outside code</h3>
-      Sport, travel, food.
-    </td>
-  </tr>
-</table>
+### Products
+
+SaaS, apps and tools I design, build and run end to end.
+
+### Remote work
+
+Open to IT roles and projects, from back-end and front-end to mobile, infrastructure and automation.
+
+### Outside code
+
+Sport, travel, food.
 
 ## Stack I use most
 
