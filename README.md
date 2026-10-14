@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Software engineer and entrepreneur. Products, remote work, outside code." src="assets/banner-light.png" width="100%">
+  <img alt="Software engineer and entrepreneur." src="assets/banner-light.png" width="100%">
 </picture>
 
 <p align="center">
