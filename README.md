@@ -39,4 +39,4 @@ Epitech graduate (Master's level, 2026).
 
 ---
 
-<p align="center"><sub>Most of my work is private for now. Ask me for a demo.</sub></p>
+<p align="center"><em>Most of my work is private for now. Ask me for a demo.</em></p>
